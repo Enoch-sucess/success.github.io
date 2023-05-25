@@ -1,0 +1,60 @@
+body{ 
+        background-color: whitesmoke;
+      background-size: 1300%;
+    }
+
+
+hr{ 
+    width: 5%; 
+    border-style: dotted none none none;
+    border-width: 10px;
+    border-color: white;
+ }
+ 
+h1,h2,h3{
+    color: darkcyan;
+} 
+.big-title{
+    color:darkcyan;
+}
+
+.hr1{
+    width: 20rem;
+    border-bottom-width: 0.8rem;
+    border-bottom-style:  dotted;
+    border-bottom-color: rgb(99, 96, 96);
+    border-top-width: 0rem;
+}
+.hr2{
+    width: 10rem;
+    border-bottom-width: 0.8rem;
+    border-bottom-style:  dotted;
+    border-bottom-color: rgb(99, 96, 96);
+    border-top-width: 0rem;
+}
+.hr3{
+    width: 5rem;
+    border-bottom-width: 0.8rem;
+    border-bottom-style:  dotted;
+    border-bottom-color: rgb(99, 96, 96);
+    border-top-width: 0rem;
+}
+
+#menu li{
+    display: inline;
+    background-color: rgb(83, 81, 81);
+    color: white;
+    padding:10px 20px;
+    text-decoration:none;
+    border-radius: 4px 4px 0 0;
+    float: right;
+    margin: 10px 10px 10px ;
+
+
+      /* Css Syntax
+      who { what: how;}
+      element { properties: value; } */
+
+      /* CSS Selectors. */
+      /* tag selector (tag name)
+      id (#)  and class selector (.)   */
